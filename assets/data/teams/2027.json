@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "username": "Ankit",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761296513/ankit_nvlu3e.jpg",
+    "dis": "Driven by curiosity, guided by discipline, and fueled by purpose.🔄💡",
+    "github": "https://share.google/HFIwnulDaVqJlke1V",
+    "linkedin": "https://www.linkedin.com/in/ankit-balhara-7545722b6",
+    "post": "DSA/CP Lead & Operational Lead",
+    "isFront": true
+  },
+  {
+    "id": 2,
+    "username": "Niyati Goswami",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761845668/Screenshot_2025-10-30_230324_akr5ze.png",
+    "dis": "At the heart of innovation lies collaboration ; and that’s exactly what drives our community. I’m Niyati Goswami, serving as the Operational and Open Source Lead, dedicated to building a space where ideas turn into impact. Our mission is to empower developers, creators, and learners to contribute, grow, and lead in the open source ecosystem.",
+    "github": "https://github.com",
+    "linkedin": "https://www.linkedin.com/in/niyati-goswami-89a719295",
+    "post": "Open source lead & Operational lead  ",
+    "isFront": true
+  },
+  {
+    "id": 3,
+    "username": "Tamanna",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761846089/Screenshot_2025-10-30_231103_kmdxxg.png",
+    "dis": "I’m an AI/ML enthusiast driven by curiosity and a passion for turning data into intelligent insights. As the AI/ML Lead, I strive to foster innovation, collaboration, and exploration in the field of artificial intelligence to build a smarter, data-driven future.",
+    "github": "https://github.com/tamanna26072",
+    "linkedin": "https://www.linkedin.com/in/tamanna-43a705288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "post": "AI/ML Lead",
+    "isFront": false
+  },
+  {
+    "id": 4,
+    "username": "Komal Verma",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761847482/WhatsApp_Image_2025-10-30_at_23.33.08_46f1d5c0_ncldcf.jpg",
+    "dis": "Passionate tech enthusiast dedicated to fostering innovation and community engagement.",
+    "github": "https://github.com/komalverma22",
+    "linkedin": "https://linkedin.com/in/komalverma07",
+    "post": "Development Lead",
+    "isFront": true
+  },
+  {
+    "id": 6,
+    "username": "Keshav",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761846613/Screenshot_2025-10-30_231948_bwswdp.png",
+    "dis": "Learning, building, and breaking things till they make sense",
+    "github": "https://github.com/K3xhav",
+    "linkedin": "https://in.linkedin.com/in/k3xhav",
+    "post": "ML Lead",
+    "isFront": false
+  },
+  {
+    "id": 6,
+    "username": "Laxmi",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761848772/Screenshot_2025-10-30_235541_li7cpm.png",
+    "dis": "Passionate about Tech and collaboration",
+    "github": "#",
+    "linkedin": "#",
+    "post": "Open Source Lead",
+    "isFront": false
+  },
+  {
+    "id": 7,
+    "username": "Abhishek Saini",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761848191/Screenshot_2025-10-30_234608_poxlie.png",
+    "dis": "I’m a full-stack web developer who loves creating beautiful digital experiences.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-आवश्यकता ही आविष्कार की जननी है|",
+    "github": "https://github.com/mannu1392004",
+    "linkedin": "https://www.linkedin.com/in/mannu-kumar-38a280246/",
+    "post": "Development Lead",
+    "isFront": false
+  }
+]
