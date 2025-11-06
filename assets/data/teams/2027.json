@@ -60,6 +60,26 @@
     "isFront": false
   },
   {
+    "id": 6,
+    "username": "Puneet",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1762313420/IMG_20251105_085951_ql0tv7.jpg",
+    "dis": "Passionate about Tech and collaboration",
+    "linkedin": "http://www.linkedin.com/in/laxmihasija",
+    "github": "https://github.com/laxmi-hasija ",
+    "post": "Social Media Lead",
+    "isFront": false
+  },
+  {
+    "id": 6,
+    "username": "Anhsuman",
+    "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1762406223/Screenshot_2025-11-06_104624_spsl07.png",
+    "dis": "Passionate about Tech and collaboration",
+    "linkedin": "http://www.linkedin.com/in/laxmihasija",
+    "github": "https://github.com/laxmi-hasija ",
+    "post": "Social Media Lead",
+    "isFront": false
+  },
+  {
     "id": 7,
     "username": "Abhishek Saini",
     "image": "https://res.cloudinary.com/dqf7raj6f/image/upload/v1761848191/Screenshot_2025-10-30_234608_poxlie.png",
